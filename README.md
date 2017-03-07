@@ -34,3 +34,8 @@ The following pokémon can not be traded over GTS:
 14. Meloetta
 
 15. Genesect
+
+
+# RULES
+
+I only ask of you that if you use any of my files from this repository, you give me proper credit. These pokémon were created and collected by me. It's a lot of hard work, so the least you can do is just give me a proper mention ❤
