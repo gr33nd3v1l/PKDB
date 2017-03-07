@@ -6,7 +6,6 @@ Pokemon database for the stream http://twitch.tv/gr33nd3v1l
 
 The following pokémon can not be traded over GTS:
 
-~~1. Mewtwo (I have a tradable one, however)~~
 
 2. Mew
 
