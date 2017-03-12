@@ -2,7 +2,7 @@
 
  http://twitch.tv/gr33nd3v1l - The stream where the pokémon are generated and traded to you for free!
  
- My pokémon will always, when able come with OT: SATAN, TID: 06660, T7ID: 006660
+ My pokémon will always, when able, come with OT: SATAN, TID: 06660, T7ID: 006660
 
 [Pokemon detail list is on Wiki](https://github.com/gr33nd3v1l/PKDB/wiki)
 
